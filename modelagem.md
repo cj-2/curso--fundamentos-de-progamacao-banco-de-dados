@@ -54,8 +54,8 @@ E por aí vai...
 
 ## Tipos de Dados
 
--   STRING, VARCHAR - Sequencia de caractéres. Ex: nomes, endereçoes, descriçoes...
--   DATE, TIMESTAMP - Data e/ou hora. - Aniversáriio, criação, alteraçẽos...
+-   STRING, VARCHAR - Sequencia de caractéres. Ex: nomes, endereços, descrições...
+-   DATE, TIMESTAMP - Data e/ou hora. - Aniversário, criação, alterações...
 -   INTEGER, SMALLINT, DECIMAL, NUMERIC - Números com diferentes níves de precisão.
 
 ### String
@@ -106,3 +106,8 @@ Clientes
 Chave substituta ou sintética, tem um valor diferente para todos os registros da tabela, ou seja, é unica.
 
 É comum se utilizar números inteiros, mas algumas pessoas por segurança utilizam o UUID - Unique Universal Identifier.
+
+### Chaves Compostas
+
+Chaves compostas são criadas a partir da combinação de 2 ou mais valores de colunas diferentes 
+para compor uma "chave primária única".

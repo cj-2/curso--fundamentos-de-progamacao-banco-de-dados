@@ -1,6 +1,6 @@
 # Banco Relacionais
 
-Bancos de dados Realcionais possuem esse nome por causa da possibilidade de criar relações entre tabelas existentes.
+Bancos de dados Relacionais possuem esse nome por causa da possibilidade de criar relações entre tabelas existentes.
 
 ## Registros e Atributos
 
